@@ -28,7 +28,6 @@ public class Scene {
         per1.walk(veranda, sf1);
         troll1.takeWeaponRunIncident(livingRoom);
         troll2.takeWeaponRunIncident(livingRoom);
-        per1.takeWeaponRunIncident(livingRoom);
         per2.takeWeaponRunIncident(livingRoom);
         per3.takeWeaponRunIncident(livingRoom);
 
